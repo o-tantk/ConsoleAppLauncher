@@ -1,0 +1,9 @@
+*.o
+.DS_Store
+*.sdf
+*.suo
+*.pdb
+bin
+obj
+[dD]ebug
+[rR]elease
